@@ -1,0 +1,8 @@
+
+body, html {margin:0; padding:0; font-family:sans-serif;}
+.sidebar {position:fixed; top:0; left:0; height:100vh; width:220px; background:#28a745; color:white; padding-top:1rem;}
+.sidebar a{display:block; color:white; padding:12px 20px; text-decoration:none; margin-bottom:4px;}
+.sidebar a:hover{background:#218838;}
+.main-content{margin-left:220px; padding:2rem;}
+.card{border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.05); margin-bottom:1rem;}
+footer{background:#28a745;color:white;text-align:center;padding:1rem;}
