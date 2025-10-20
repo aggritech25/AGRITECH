@@ -1,1 +1,0 @@
-console.log('AgriTech dashboard JS loaded');
